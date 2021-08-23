@@ -1,0 +1,9 @@
+[submodule "dsl_list"]
+	path = dsl_list
+	url = https://github.com/Henchel-Santillan/dsl_list.git
+[submodule "dsl_graph"]
+	path = dsl_graph
+	url = https://github.com/Henchel-Santillan/dsl_graph.git
+[submodule "dsl_map"]
+	path = dsl_map
+	url = https://github.com/Henchel-Santillan/dsl_map.git
